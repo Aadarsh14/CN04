@@ -1,1 +1,1 @@
-# CN04
+Design pattern used to colour gane
