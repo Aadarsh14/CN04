@@ -1,1 +1,1 @@
-Design pattern used to colour gane
+Design pattern used for colour game
